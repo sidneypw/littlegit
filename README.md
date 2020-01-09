@@ -1,0 +1,2 @@
+# littlegit
+first little git
